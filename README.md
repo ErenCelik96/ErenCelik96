@@ -7,12 +7,10 @@
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%BCtfullah-%C3%A7elenk-aa0927206/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15324523/lutfullah-celenk)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:lutfullahclnk1104@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@lutfullahcelenk)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erencan-celik-a078a7156/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:celik.erenn96@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahcelenk" alt="lutfullahcelenk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenCelik96" alt="erencelik" /> </p>
 
 ## 💻 Frontend
 
@@ -50,7 +48,7 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lutfullahcelenk&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfullahcelenk&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfullahcelenk&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenCelik96&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCelik96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 

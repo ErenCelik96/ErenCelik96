@@ -1,12 +1,12 @@
 ## Hi there. I'm Eren...👋
 
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React.js | Wordpress | SASS/SCSS | Bootstrap)
 - 🌱 I’m currently learning backend development (Python | Django)
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erencan-celik-a078a7156/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erencelik96/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:celik.erenn96@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenCelik96" alt="erencelik" /> </p>

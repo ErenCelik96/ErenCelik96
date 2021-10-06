@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React.js | Wordpress | SASS/SCSS | Bootstrap)
-- 🌱 I’m currently learning backend development (Python | Django)
+- 🌱 I’m currently learning backend development (Python | Django | PostgreSQL | RestAPI)
 
 ## 👨👩 Social
 

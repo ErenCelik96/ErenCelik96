@@ -26,10 +26,7 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCelik96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-- Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ErenCelik96/github-readme-stats)
 

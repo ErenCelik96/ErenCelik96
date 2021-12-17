@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on frontend development (JavaScript | React.js | Wordpress | SASS/SCSS | Bootstrap)
-- 🌱 I’m currently learning backend development (Python | Django | PostgreSQL | RestAPI)
+- 🌱 I’m currently learning backend development (Python | Java | PostgreSQL | RestAPI)
 
 ## 👨👩 Social
 
@@ -10,14 +10,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:celik.erenn96@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenCelik96" alt="erencelik" /> </p>
-
-## 💻 Frontend
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 
 ## ⚙ Tools
 

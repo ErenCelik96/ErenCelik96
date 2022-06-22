@@ -1,8 +1,8 @@
 ## Hi there. I'm Eren...👋
 
 
-- 🔭 I’m currently working on frontend development (JavaScript | React.js | Wordpress | SASS/SCSS | Bootstrap)
-- 🌱 I’m currently learning backend development (Python | Java | PostgreSQL | RestAPI)
+- 🔭 I’m currently working on frontend development (JavaScript | Typescript | React.js | Next.js | SASS/SCSS | Bootstrap | Wordpress)
+- 🌱 I’m currently learning backend development (Python | PostgreSQL | Graphql | RestAPI)
 
 ## 👨👩 Social
 

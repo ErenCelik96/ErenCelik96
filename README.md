@@ -13,9 +13,6 @@
 
 ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="sass" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="ts" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="next" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 

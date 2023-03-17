@@ -12,10 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenCelik96" alt="erencelik" /> </p>
 
 ## ⚙ Tools
-Project Demo       |Libraries and Technologies I use  |Project Preview   
-:-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
-[React - StyleComponent](https://classy-maamoul-be6003.netlify.app/)
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
@@ -30,5 +26,10 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCelik96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
+  
+Project Demo       |Libraries and Technologies I use  |Project Preview   
+:-------------------------|---------------------|------------------
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
+[React - StyleComponent](https://classy-maamoul-be6003.netlify.app/)
 
 

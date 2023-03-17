@@ -26,10 +26,3 @@
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErenCelik96&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenCelik96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
-  
-Project Demo       |Libraries and Technologies I use  |Project Preview   
-:-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
-[React - StyleComponent](https://classy-maamoul-be6003.netlify.app/)
-
-
